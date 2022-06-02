@@ -1,0 +1,11 @@
+{
+    "global" : {
+        "light" : {
+            "nav-bars" : "bars_light" 
+            
+        } ,
+        "dark" : {
+            "nav-bars" : "bars_dark"
+        }
+    }
+}
